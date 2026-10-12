@@ -12,6 +12,6 @@ let practice = getTotal ([10, 20, 30]);
 console.log (practice);
 // Output value 60
 let practice1 = getTotal([21, 24, 45, 16, 8])
-console.log (practice1)
+console.log (practice1);
 // Output value 114
 // Output and print the function Value
